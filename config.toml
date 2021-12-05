@@ -24,10 +24,16 @@ paginate     = 10
   #keywords = "homepage, blog"
   #images = [""]
 
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/forecastfi"
+
 #[taxonomies]
 #    category = "blog"
 #    tag      = "tags"
 #    series   = "series"
+
+
 
 [languages]
   [languages.en]
