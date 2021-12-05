@@ -45,7 +45,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "documentation"
-      logoHomeLink = "/gitbook"
+      logoHomeLink = "forecastfi.readthedocs.io"
     # or
     #
     # path = "/img/your-example-logo.svg"
